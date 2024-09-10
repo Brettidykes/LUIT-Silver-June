@@ -1,0 +1,4 @@
+print('hello')
+print()
+print('I\'m studying python')
+print('I\'m studying python', 'and having fun')
