@@ -1,0 +1,17 @@
+greeting = 'hello, friend!'
+
+#integers
+
+age = 35
+
+#floats
+
+speed = 4.5
+speed2 = 4.0
+speed3 = 4.
+
+#booleans
+am_i_ugly = False 
+#boolean value must have capital letter // True or False
+#also, 1 = true and 0 = false
+

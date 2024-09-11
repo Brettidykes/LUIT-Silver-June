@@ -1,0 +1,9 @@
+age = 28
+print (age)
+new_age = age + 5
+age = age + 7
+
+#string concatenation = joining strings
+text = 'hokus' + 'pokus'
+print(text)
+print('hokus' * 5)
